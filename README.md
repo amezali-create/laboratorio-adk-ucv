@@ -8,7 +8,7 @@ gestionan con **Poetry**, el código se versiona en **GitHub** y cada `push`
 ejecuta las pruebas y un análisis de calidad en **SonarQube** mediante
 **GitHub Actions**.
 
-[![SonarQube](https://github.com/TU_USUARIO/laboratorio-adk-ucv/actions/workflows/sonarqube.yml/badge.svg)](https://github.com/TU_USUARIO/laboratorio-adk-ucv/actions/workflows/sonarqube.yml)
+[![SonarQube](https://github.com/amezali-create/laboratorio-adk-ucv/actions/workflows/sonarqube.yml/badge.svg)](https://github.com/amezali-create/laboratorio-adk-ucv/actions/workflows/sonarqube.yml)
 
 ---
 
@@ -109,7 +109,7 @@ git init
 git add .
 git commit -m "feat: initial google adk mono-agent"
 git branch -M main
-git remote add origin https://github.com/TU_USUARIO/laboratorio-adk-ucv.git
+git remote add origin https://github.com/amezali-create/laboratorio-adk-ucv.git
 git push -u origin main
 ```
 
